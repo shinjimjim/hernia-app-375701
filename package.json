@@ -1,5 +1,5 @@
 {
-  "name": "hernia_app_375701",
+  "name": "hernia_app",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0-alpha",
@@ -11,5 +11,8 @@
   "version": "0.1.0",
   "devDependencies": {
     "webpack-dev-server": "^4.9.2"
+  },
+  "engines" : {
+    "node": "14.x.x"
   }
 }
